@@ -40,7 +40,7 @@ def postfix_evaluator(data, expression):
                 elif element == '*':
                     result = float(first_operand) * float(second_operand)
                 elif element == '/':
-                    result = float(first_operand) * float(second_operand)
+                    result = float(first_operand) / float(second_operand)
                 elif element == '==':
                     result = float(first_operand) == float(second_operand)
                 elif element == '!=':
