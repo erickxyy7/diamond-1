@@ -5,7 +5,9 @@ An easy and simple programming language.
 Here's Diamond official website: https://diamondlang.pythonanywhere.com
 
 ## Running a Diamond program
-Run the command: `python3 diamond.py program_name`
+Run the command:
+
+`python3 diamond.py program_name`
 
 ## Future features
 * logical operators (`and`, `or`).
